@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_remove">移除</string>
+    <string name="txt_switch_to_ap">請切換相機到AP模式</string>
+    <string name="txt_qrcode_not_support">裝置不支援此新增方式，請嘗試手動輸入</string>
+    <string name="txt_back">返回</string>
+    <string name="txt_qvga">QVGA</string>
+    <string name="txt_wdr">寬動態</string>
+    <string name="txt_environment">環境</string>
+    <string name="txt_time_lapse">間隔</string>
+    <string name="txt_camera_settings">相機設定</string>
+    <string name="txt_oper_settings">操作設定</string>
+    <string name="txt_flip_title">翻轉</string>
+    <string name="txt_time_lapse_recording">間隔錄影</string>
+    <string name="txt_flip">翻轉</string>
+    <string name="txt_mirror">鏡射</string>
+    <string name="txt_cloud_recording">雲錄影</string>
+    <string name="tips_change_mode">未連接攝影裝置，請確認裝置是否開啟AP Mode。</string>
+    <string name="txt_pan_tilt">自動平移/傾斜</string>
+    <string name="txt_upgrade">韌體升級</string>
+    <string name="tips_download_photo">下載照片?</string>
+    <string name="tips_download_video">下載影片?</string>
+    <string name="txt_1_sec">1秒</string>
+    <string name="txt_5_sec">5秒</string>
+    <string name="txt_10_sec">10秒</string>
+    <string name="txt_30_sec">30秒</string>
+    <string name="txt_1_min">1分鐘</string>
+    <string name="txt_5_min">5分鐘</string>
+    <string name="txt_10_min">10分鐘</string>
+    <string name="txt_30_min">30分鐘</string>
+    <string name="txt_1_hr">1小時</string>
+    <string name="txt_2_hr">2小時</string>
+    <string name="txt_3_hr">3小時</string>
+    <string name="txt_1_day">一天</string>
+
+    <string name="evttype_manual_recording">手動錄影</string>
+    <string name="evttype_emg_recording">緊急鎖檔</string>
+    <string name="evttype_time_lapse">間隔</string>
+
+    <string name="txt_Please_add_a_device">沒有裝置在明細上\n.請增加裝置</string>
+    <!--<string name="txtNormal">正常</string>-->
+    <string name="txtNormal">錄影</string>
+    <string name="txt_wifi_settings">Wi-Fi設定</string>
+    <string name="tips_add_dev_wifi">將設備連線至指定Wi-Fi AP</string>
+
+    <string name="gsnsor">重力傳感器</string>
+    <string name="timesync">同步時間</string>
+    <string name="factory_default">恢復預設值</string>
+    <string name="motiondetect">移動偵測</string>
+
+</resources>

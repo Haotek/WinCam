@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gsensor_texts">
+        <item>OFF</item>
+        <item>Low</item>
+        <item>Mid</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="gsensor_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

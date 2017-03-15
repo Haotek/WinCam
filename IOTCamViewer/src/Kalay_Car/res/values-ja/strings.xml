@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WinCam</string>
+
+    <string name="txt_remove">取り除き</string>
+    <string name="txt_switch_to_ap">カメラをAPモードに切り替えてください。</string>
+    <string name="txt_qrcode_not_support">この追加方法はサポートしていませんので、手動で入力してください。</string>
+    <string name="txt_back">戻し</string>
+    <string name="txt_qvga">QVGA</string>
+    <string name="txt_wdr">WDR</string>
+    <string name="txt_environment">環境</string>
+    <string name="txt_time_lapse">間隔</string>
+    <string name="txt_camera_settings">カメラ設定</string>
+    <string name="txt_oper_settings">操作設定</string>
+    <string name="txt_flip_title">フリップ</string>
+    <string name="txt_time_lapse_recording">間隔録画</string>
+    <string name="txt_flip">フリップ</string>
+    <string name="txt_mirror">ミラーリング</string>
+    <string name="txt_cloud_recording">クラウド録画</string>
+    <string name="tips_change_mode">接続失敗。APモードを使用中か確認してください。</string>
+    <string name="txt_pan_tilt">自動平移/傾斜</string>
+    <string name="txt_upgrade">ファームウェア更新</string>
+    <string name="tips_download_photo">写真をダウンロード</string>
+    <string name="tips_download_video">ビデオをダウンロード</string>
+    <string name="txt_1_sec">1秒</string>
+    <string name="txt_5_sec">5秒</string>
+    <string name="txt_10_sec">10秒</string>
+    <string name="txt_30_sec">30秒</string>
+    <string name="txt_1_min">1分間</string>
+    <string name="txt_5_min">5分間</string>
+    <string name="txt_10_min">10分間</string>
+    <string name="txt_30_min">30分間</string>
+    <string name="txt_1_hr">1時間</string>
+    <string name="txt_2_hr">2時間</string>
+    <string name="txt_3_hr">3時間</string>
+    <string name="txt_1_day">一日</string>
+
+    <string name="evttype_manual_recording">手動録画</string>
+    <string name="evttype_emg_recording">EMGロック</string>
+    <string name="evttype_time_lapse">間隔</string>
+
+    <string name="txt_Please_add_a_device">リストにカメラが入っていません。カメラを追加してください。</string>
+    <!--<string name="txtNormal">正常</string>-->
+    <string name="txtNormal">ビデオ</string>
+    <string name="txt_wifi_settings">Wi-Fi設定</string>
+    <string name="tips_add_dev_wifi">カメラを特定のWi-Fi APに選定します。</string>
+
+    <string name="gsnsor">G-Sensor</string>
+    <string name="timesync">時刻同期</string>
+    <string name="factory_default">初期化</string>
+    <string name="motiondetect">動体検知</string>
+
+</resources>
